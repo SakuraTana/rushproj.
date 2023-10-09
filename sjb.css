@@ -1,0 +1,120 @@
+/*Navigation Bar*/
+.topnav {
+  overflow: hidden;
+  background-color: #ff808b;
+  box-shadow: 0px 10px rgb(253, 236, 158);
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+}
+
+.topnav a {
+  float: left;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Golos Text', sans-serif;
+}
+
+.topnav a:hover {
+  background-color: #a3d3c3;
+  color: #3c8ca4;
+}
+
+.topnav a.active {
+  background-color: #f9b7bd;
+  color: white;
+}
+
+/*About Section*/
+.About {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 50px;
+    margin-left: 3%; 
+}
+
+.img01 {
+    height: 650px;
+    width: 600px;
+    margin-left: 3%;
+    margin-top: 0%;
+    float: left;
+
+}
+.img02{ 
+    height: 175px;
+    width: 175px;
+    float: left;
+    margin-top: 0%;
+    margin-right: 5%;
+    margin-left: 4%;
+    margin-bottom: 0.7%;
+}
+.img03{ 
+    height: 175px;
+    width: 160px;
+    float: left;
+    margin-top: 0%;
+    margin-left: 0.9%;
+    padding-right: 2%;
+    margin-bottom: 0.7%;
+}
+.img04{ 
+    height: 175px;
+    width: 160px;
+    float: left;
+    margin-top: 0%;
+    margin-left: 5%;
+    margin-right: 1%;
+    margin-bottom: 0.7%;
+}
+.img05{
+    height: 200px;
+    width: 450px;
+    float:right;
+    margin-right: 12%;
+}
+
+.hist {
+    font-family:'Manrope', sans-serif;
+    text-align: center;
+    line-height: 1.6;
+    font-size: 15px;
+    text-indent: 50px; 
+}
+.address {
+  margin-top: 2%;
+  float: left;
+  text-align: right;
+  margin-left: 20%;
+}
+ .line {
+  margin-top: 20%;
+  padding: 0%;
+ }
+  /*Motto*/
+  .About1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 15%;
+  }
+
+  .Motto {
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    margin-top: 15%;
+    font-size: 70px;
+    color: black;
+  }
+
+  .Motto1 {
+    text-align: center;
+    font-size: 40px;
+    font-family:'Manrope', sans-serif;
+    word-spacing: 20px;
+    padding-top: -8%; 
+   }
